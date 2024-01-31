@@ -6,5 +6,5 @@
 * git log - просмотр всех commit
 * git checkout <от 4х символов хэшкода> - переход в указанный commit
 * git checkout master - переключаемся в master
-
+# Загружаем картинку
 
